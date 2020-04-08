@@ -9,3 +9,4 @@ The team is composed by:
 * Andrea Díaz - 201720031
 * Ariana Villegas - 201810614
 * Diego Linares - 201710524
+
