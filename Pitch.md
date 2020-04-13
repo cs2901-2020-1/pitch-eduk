@@ -22,7 +22,7 @@ Dar a los alumnos herramientas para que todos puedan tener las mismas oportunida
 
 ### Público objetivo A
 
-Estudiantes de 3ro, 4to, y 5to año de secundaria a nivel nacional. Y se encuentran buscando reforzamiento en cursos de matemática y química.
+Estudiantes de 3ro, 4to, y 5to año de secundaria a nivel nacional. Y se encuentran buscando reforzamiento en cursos de STEAM.
 
 ### Datos relevantes 
 
