@@ -2,7 +2,7 @@
 
 # Problema a resolver
 
-## Acceso a Internet
+## Pocas fuentes de información
 
 Los alumnos de zonas alejadas, dada la carencia de conexión a Internet y casi nula educación tecnológica, no tienen acceso a muchas de las mejores fuentes de información gratuita que se dispone en internet, que podría potenciar su aprendizaje en gran medida.
 
