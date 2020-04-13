@@ -1,10 +1,28 @@
 # Pitch
 
+# Problema a resolver
+
+### Pocas fuentes de información
+
+Los alumnos de zonas alejadas, dada la carencia de conexión a Internet y casi nula educación tecnológica, no tienen acceso a muchas de las mejores fuentes de información gratuita que se dispone en internet, que podría potenciar su aprendizaje en gran medida.
+
+### Brecha tecnológica
+
+La ausencia de uso de tecnología en un mundo tan dependiente de ella solo perjudica a los alumnos, quienes salen con una menor preparación en cuanto a como afrontar problemas cuando no hay un profesor que los pueda ayudar, así como tienen menos herramientas que aquellos que reciben una correcta preparación tecnológica.
+
+# Necesidad de la solución
+
+### Más fuentes de información confiables
+Se quiere lograr que los alumnos tengan acceso a material confiable con el que puedan reforzar la educación brindada por los centros de estudio con el fin de elevar el rendimiento de los alumnos.
+
+### Eliminar brechas
+Dar a los alumnos herramientas para que todos puedan tener las mismas oportunidades, basado en una buena preparación en educación STEAM.
+
 # Tamaño del mercado
 
 ### Público objetivo A
 
-Estudiantes de 3ro, 4to, y 5to año de secundaria a nivel nacional. Y se encuentran buscando reforzamiento en cursos de matemática y química.
+Estudiantes de 3ro, 4to, y 5to año de secundaria a nivel nacional. Y se encuentran buscando reforzamiento en cursos de STEAM.
 
 ### Datos relevantes 
 
