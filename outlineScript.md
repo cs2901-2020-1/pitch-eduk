@@ -13,7 +13,7 @@ Sin embargo, se ha de tener en cuenta que no todos los alumnos - mention some st
 Nuestros objetivos son:
 
 1. Partiendo del punto de la inclusividad, que la experiencia offline sea un factor importante.
-2. Los cursos a tratar son las ciencias principales: Física, Química, Mátematica (Biology?)
+2. Los cursos a tratar estan relacionados a STEAM.
 3. El material de estos cursos debe ser confiable, estar vaalidado como útil para ellos.
 4. Lo que se espera, es que los estudiantes puedan trabajar con mejores recursos, y por ende, mejorar su rendimiento a pesar de las condiciones.
 
