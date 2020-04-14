@@ -51,3 +51,10 @@ Son profesores a nivel nacional.
 
 Una plataforma web donde profesores acreditados por una institución educativa puedan subir material, el cual puede ser rankeado en mérito a su calidad por alumnos y profesores. Este material puede ser público o privado de acuerdo a lo que el profesor especifíque, pero en su mayoría todos los alumnos pueden acceder a la mayor cantidad posible. Además, los alumnos pueden hacer seguimiento de los temas que están estudiando y reciben sugerencias sobre material relacionado. Asimismo, el servicio hará referencia a otros servicios con material educativo similar que respecte el año del estudiante, y pueden seleccionar el contenido al cual quieran acceder aún sin conexión a internet.
 
+# Bibliografía
+
+- [1] INEI, "Estadísticas de las Tecnologías de Información y Comunicación
+en los Hogares", INEI, Lima, Peru, Tech. Rep. 2, 2018.
+- [2] INEI. (2018, Junio 15). MATRÍCULA ESCOLAR EN EL SISTEMA EDUCATIVO, SEGÚN NIVEL MODALIDAD Y SECTOR, 2008-2018 [En línea]. Disponible en: https://www.inei.gob.pe/estadisticas/indice-tematico/education/
+- [3] J. Paz. (2019, Febrero 9). Más de ocho mil profesores ya tienen créditos aprobados para obtener computadoras portátiles [En línea]. Disponible en: https://andina.pe/agencia/noticia-mas-ocho-mil-profesores-ya-tienen-creditos-aprobados-para-obtener-computadoras-portatiles-160627.aspx
+
