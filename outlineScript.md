@@ -80,7 +80,7 @@ Este material puede ser público o privado de acuerdo a lo que el profesor espec
 
 Se puede hacer seguimiento de los temas que están estudiando y recibir sugerencias sobre material relacionado. Asimismo, el servicio hará referencia a otros servicios con material educativo similar que respecte el año del estudiante, y pueden seleccionar el contenido al cual quieran acceder aún sin conexión a internet.
 
-## Slide 13
+## Slide 14
 
 ¿Quiénes estarán a cargo de este proyecto?
 
@@ -92,6 +92,6 @@ Se puede hacer seguimiento de los temas que están estudiando y recibir sugerenc
 
 *Add experience*
 
-## Slide 14 - 15
+## Slide 15 - 16
 
 *Possible questions?*
