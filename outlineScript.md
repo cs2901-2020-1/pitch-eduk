@@ -23,7 +23,7 @@ EduK es un web-service permite cubrir estas necesidades.
 
 Este debe permitir a profesores subir material educativo para estudiantes de 3er a 5to año de secundaria. 
 
-No estamos hablando de un repositorio de ejercicios - since we don't actually *own* the exercises - sino un buscador optimizado que referencie a otros servicios similares, respetando el grado del estudiante. 
+Hacemos uso de crowdsourcing - since we don't actually *own* the exercises - para generar un repositorio de ejercicios, con el adicional de un buscador optimizado que referencie a otros recursos similares, respetando el grado del estudiante. 
 
 Contará con una función paara ver y utilizar el material sin conexión a Internet
 
@@ -31,12 +31,12 @@ Contará con una función paara ver y utilizar el material sin conexión a Inter
 
 Para esta aplicación entonces tenemos a 2 tipos de usuarios.
 
-**Estudiantes:** de 3er a 5to año de secundaria a nivel nacional. 
+**Estudiantes:** de 3er a 5to año de secundaria.
 
 * Se encuentran buscando reforzamiento *de calidad* en los cursos que mencionamos.
 * Puede que no tengan una conexión fiable
 
-**Profesores:** - same deal, nivel nacional -. 
+**Profesores:**
 
 * Cumplen el rol de verificación de maaterial que se encuentra referenciado de otras fuentes.
 
@@ -61,31 +61,34 @@ Como servicios que prometen separar *la creme de la creme* de lo que se encuentr
 
 A pesar de que las 2 últimas son plataformas virtuales reconocidas y que sirven como modelo. Son *heavily dependent* en depender completamente del contenido propio, y generan una barrera de acceso a los **Usuarios B (profesores)**
 
-## Slide 10 - 11
+## Slide 10 - 12
 
-Entonces, que diferencia a EduK?
+EduK se caracteriza por dar la posibilidad de que profesores y otros creadores de contenido educativo puedan compartir su conocimiento con una mayor cantidad de alumnos. 
 
-* La posibilidad de que profesores y otros creadores de contenido educativo puedan compartir su conocimiento con una mayor cantidad de alumnos. 
-* Los profesores pueden agrupar contenido para que los estudiantes tengan una guía de en qué orden se debería seguir el material de acuerdo a los temas
-* Los alumnos pueden hacer seguimiento de los temas que están estudiando, y recibir sugerencias en base a esto.
+Cabe resaltar que, de acuerdo al INEI:
 
-*I really feel something is lacking here.*
+* Hay 2 543 600 estudiantes de educación secundaria a nivel nacional. 91% de estos tiene algún tipo de dispositivo entre computadora y móvil, aunque solo 51% tienen acceso a Internet.
+* 237 600 profesores de educación secundaria. Se promueve que estos tengan acceso a una laptop.
 
-## Slide 12
+Como parte del inicio de EduK, queremos enfocarnos primero en el mercado nacional, de forma que podamos ver que el proyecto es escalable. Unaa vez garanticemos su funcionamiento con estudiantes y profesores/creadores de contenido a nivel nacional, es que nos podemos extender más.
 
-EduK entonces busca ser un buscador que separe lo mejor de lo mejor del contenido académico disponible, para los usuarios. 
+## Slide 13
 
-*Maybe talk more about features*
+EduK entonces busca ser una plataforma web donde profesores acreditados por una institución educativa puedan subir material, el cual puede ser calificado en mérito por alumnos y profesores. 
+
+Este material puede ser público o privado de acuerdo a lo que el profesor especifíque, pero en su mayoría todos los alumnos pueden acceder a la mayor cantidad posible.
+
+Se puede hacer seguimiento de los temas que están estudiando y recibir sugerencias sobre material relacionado. Asimismo, el servicio hará referencia a otros servicios con material educativo similar que respecte el año del estudiante, y pueden seleccionar el contenido al cual quieran acceder aún sin conexión a internet.
 
 ## Slide 13
 
 ¿Quiénes estarán a cargo de este proyecto?
 
-* Stephano Wurttele
-* Diego Linares
-* Andrea Díaz
-* Ariana Villegas
-* Sebastián Carcamo
+* Stephano Wurttele (Líder del Equipo y SCRUM master)
+* Diego Linares (Back-End Lead Dev.)
+* Andrea Díaz (Front-End Lead Dev.)
+* Ariana Villegas (Documentation Manager)
+* Sebastián Carcamo (Software Architect)
 
 *Add experience*
 
