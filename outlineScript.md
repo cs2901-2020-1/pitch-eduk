@@ -23,9 +23,9 @@ EduK es un web-service permite cubrir estas necesidades.
 
 Este debe permitir a profesores subir material educativo para estudiantes de 3er a 5to año de secundaria. 
 
-Hacemos uso de crowdsourcing - since we don't actually *own* the exercises - para generar un repositorio de ejercicios, con el adicional de un buscador optimizado que referencie a otros recursos similares, respetando el grado del estudiante. 
+Hacemos uso de crowdsourcing - debido a que no somos *propietarios* de los ejercicios - para generar un repositorio de ejercicios, con el adicional de un buscador optimizado que referencie a otros recursos similares, respetando el grado del estudiante. 
 
-Contará con una función paara ver y utilizar el material sin conexión a Internet
+Contará con una función para ver y utilizar el material sin conexión a Internet
 
 ## Slide 5 - 6
 
@@ -33,12 +33,12 @@ Para esta aplicación entonces tenemos a 2 tipos de usuarios.
 
 **Estudiantes:** de 3er a 5to año de secundaria.
 
-* Se encuentran buscando reforzamiento *de calidad* en los cursos que mencionamos.
+* Se encuentran buscando reforzamiento *de calidad* en los cursos que mencionamos. No necesariamente distinguen entre un buen y mal reforzamiento.
 * Puede que no tengan una conexión fiable
 
 **Profesores:**
 
-* Cumplen el rol de verificación de maaterial que se encuentra referenciado de otras fuentes.
+* Cumplen el rol de verificación de material que se encuentra referenciado de otras fuentes.
 
 ## Slide 7 - 9
 
@@ -87,10 +87,8 @@ Se puede hacer seguimiento de los temas que están estudiando y recibir sugerenc
 * Stephano Wurttele (Líder del Equipo y SCRUM master)
 * Diego Linares (Back-End Lead Dev.)
 * Andrea Díaz (Front-End Lead Dev.)
-* Ariana Villegas (Documentation Manager)
-* Sebastián Carcamo (Software Architect)
-
-*Add experience*
+* Ariana Villegas (Software Architect)
+* Sebastián Carcamo (Documentation Manager)
 
 ## Slide 15 - 16
 
