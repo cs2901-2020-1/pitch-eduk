@@ -6,14 +6,14 @@ Actualmente, para estudiantes que no tienen un *background* de investigación pr
 
 La coyuntura actual ha puesto en evidencia que la tecnología y la educación no se pueden encontrar separadas por una brecha extensa. Y que la primera debe ser una herramienta que potencie la segunda.
 
-Sin embargo, se ha de tener en cuenta que no todos los alumnos - mention some stastics here - tienen las mismas fácilidades de acceso a la información. Por lo que se debe ser inclusivo con ellos.  
+Sin embargo, se ha de tener en cuenta que no todos los alumnos, como veremos más adelannte, tienen las mismas fácilidades de acceso a la información. Por lo que se debe ser inclusivo con ellos.  
 
 ## Slide 3
 
 Nuestros objetivos son:
 
 1. Partiendo del punto de la inclusividad, que la experiencia offline sea un factor importante.
-2. Los cursos a tratar estan relacionados a STEAM.
+2. Los cursos a tratar estan relacionados a STEAM, pues es mas completo y que el MINEDU está promoviendo fuertemente la inclusión de STEAM en la currícula nacional, además de ser escalable.
 3. El material de estos cursos debe ser confiable, estar vaalidado como útil para ellos.
 4. Lo que se espera, es que los estudiantes puedan trabajar con mejores recursos, y por ende, mejorar su rendimiento a pesar de las condiciones.
 
