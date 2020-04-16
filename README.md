@@ -2,6 +2,9 @@
 ## Presentation
 https://bit.ly/3cklO34
 
+## Infographic
+https://bit.ly/2VziGtd
+
 ## Group Members
 
 The team is composed by:
