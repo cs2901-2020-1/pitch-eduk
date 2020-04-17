@@ -82,7 +82,7 @@ Se puede hacer seguimiento de los temas que están estudiando y recibir sugerenc
 
 ## Slide 14
 
-¿Cómo se genera este repositorio de contenido? Los profesores registrados en EduK tienen la posibilidad de subir contenido didáctico a la plataforma, con la posibilidad de que este este disponible a todos, público, o para ciertos alumnos, de forma privada.
+¿Cómo se genera este repositorio de contenido? Los profesores registrados en EduK tienen la posibilidad de subir contenido didáctico a la plataforma, mencionando el año de referencia y el tema que se esta tratando, con la posibilidad de que este este disponible a todos, público, o para ciertos alumnos, de forma privada.
 
 *Cabe resaltar que el acceso al contenido privado sería a través de un enlace que el profesor puede compartir a sus alumnos. Similar al sistema que usan diversas páginas de colaboración, tales como Google Drive u Overleaf.*
 
