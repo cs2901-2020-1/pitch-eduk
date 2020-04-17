@@ -67,7 +67,7 @@ EduK se caracteriza por dar la posibilidad de que profesores y otros creadores d
 
 Cabe resaltar que, de acuerdo al INEI:
 
-* Hay 2 543 600 estudiantes de educación secundaria a nivel nacional. 91% de estos tiene algún tipo de dispositivo entre computadora y móvil, aunque solo 51% tienen acceso a Internet.
+* Hay 2 543 600 estudiantes de educación secundaria a nivel nacional. 3/4 tienen en sus hogares una computadora, aunque solo 51% tienen acceso a Internet.
 * 237 600 profesores de educación secundaria. Se promueve que estos tengan acceso a una laptop.
 
 Como parte del inicio de EduK, queremos enfocarnos primero en el mercado nacional, de forma que podamos ver que el proyecto es escalable. Unaa vez garanticemos su funcionamiento con estudiantes y profesores/creadores de contenido a nivel nacional, es que nos podemos extender más.
@@ -82,6 +82,20 @@ Se puede hacer seguimiento de los temas que están estudiando y recibir sugerenc
 
 ## Slide 14
 
+¿Cómo se genera este repositorio de contenido? Los profesores registrados en EduK tienen la posibilidad de subir contenido didáctico a la plataforma, con la posibilidad de que este este disponible a todos, público, o para ciertos alumnos, de forma privada.
+
+*Cabe resaltar que el acceso al contenido privado sería a través de un enlace que el profesor puede compartir a sus alumnos. Similar al sistema que usan diversas páginas de colaboración, tales como Google Drive u Overleaf.*
+
+Según los estudiantes consideren este contenido útil, bien formulado, etc. estos pueden *realizar upvotes o downvotes* al contenido de los profesores. Esto sirve para que en un futuro el contenido pueda ser ordenado por relevancia. Un archivo que ha ayudado a más alumnos se encuentra más al alcance. 
+
+Para eliminar el *bias* al que pueden ser propicios a veces los usuarios A, los profesores también pueden *rankear* este contenido para verificar la veracidad del mismo. De forma que lo que llegue al dashboard y a lo alto de la lista de búsquedas es de hecho válido y útil a los estudiantes.
+
+## Slide 15
+
+Y el buscador, como mencionamos, permite ingresar palabras clave, y tener acceso a todo el contenido ordenado tanto por tema como por relevancia, donde nuevamente se hace útil el uso de los puntajes positivos y negativos. 
+
+## Slide 16
+
 ¿Quiénes estarán a cargo de este proyecto?
 
 * Stephano Wurttele (Líder del Equipo y SCRUM master)
@@ -90,6 +104,6 @@ Se puede hacer seguimiento de los temas que están estudiando y recibir sugerenc
 * Ariana Villegas (Software Architect)
 * Sebastián Carcamo (Documentation Manager)
 
-## Slide 15 - 16
+## Slide 17 - 18
 
 *Possible questions?*
