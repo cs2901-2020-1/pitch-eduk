@@ -37,7 +37,7 @@ Para eliminar el bias al que pueden ser propicios a veces los usuarios A, los pr
 
 Y el buscador, como mencionamos, permite ingresar palabras clave, y tener acceso a todo el contenido ordenado tanto por tema cómo por relevancia, donde nuevamente se hace útil el uso de los puntajes positivos y negativos.
 
-###Mostrar mockups
+### Mostrar mockups
 
 **Vista principal de la plataforma**
 
