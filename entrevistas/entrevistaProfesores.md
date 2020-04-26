@@ -39,7 +39,7 @@ Y el buscador, como mencionamos, permite ingresar palabras clave, y tener acceso
 
 **Mostrar mockups**
 
-![](imagenes/Screenshot\ 2020-04-24\ at\ 23.30.36.png)
+![](https://github.com/cs2901-2020-1/pitch-eduk/blob/dev/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.30.36.png)
 
 ![](imagenes/Screenshot\ 2020-04-24\ at\ 23.30.56.png)
 
