@@ -11,7 +11,7 @@ https://bit.ly/2VziGtd
 
 ## Entrevistas
 * [Profesores](entrevistas/entrevistaProfesores.md)
-* [Alumnos])(entrevistas/entrevistaAlumnos.md)
+* [Alumnos](entrevistas/entrevistaAlumnos.md)
 ## Group Members
 
 The team is composed by:
