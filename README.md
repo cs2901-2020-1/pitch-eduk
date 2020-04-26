@@ -10,8 +10,8 @@ https://bit.ly/2VziGtd
 * [Alumnos](https://forms.gle/WWsyCDeVunnfrxFV7)
 
 ## Entrevistas
-* [Profesores](entrevistas/entrevistaAlumnos.md)
-* [Alumnos](entrevistas/entrevistaProfesores.md)
+* [Profesores](entrevistas/entrevistaProfesores.md
+* [Alumnos])(entrevistas/entrevistaAlumnos.md)
 ## Group Members
 
 The team is composed by:
