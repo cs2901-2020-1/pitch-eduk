@@ -28,7 +28,7 @@ Según los estudiantes consideren este contenido útil, bien formulado, etc. est
 Para eliminar el bias al que pueden ser propicios a veces los usuarios A, los profesores también pueden rankear este contenido para verificar la veracidad del mismo. De forma que lo que llegue al dashboard y a lo alto de la lista de búsquedas es de hecho válido y útil a los estudiantes.
 Y el buscador, como mencionamos, permite ingresar palabras clave, y tener acceso a todo el contenido ordenado tanto por tema cómo por relevancia, donde nuevamente se hace útil el uso de los puntajes positivos y negativos.
 
-###Mostrar mockups
+### Mostrar mockups
 
 **Vista principal de la plataforma**
 
