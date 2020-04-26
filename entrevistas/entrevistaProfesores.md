@@ -41,11 +41,11 @@ Y el buscador, como mencionamos, permite ingresar palabras clave, y tener acceso
 
 ![](https://github.com/cs2901-2020-1/pitch-eduk/blob/dev/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.30.36.png)
 
-![](imagenes/Screenshot\ 2020-04-24\ at\ 23.30.56.png)
+![](https://github.com/cs2901-2020-1/pitch-eduk/blob/dev/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.30.56.png)
 
-![](imagenes/Screenshot\ 2020-04-24\ at\ 23.36.05.png)
+![](https://github.com/cs2901-2020-1/pitch-eduk/blob/dev/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.36.05.png)
 
-![](imagenes/Screenshot\ 2020-04-24\ at\ 23.40.42.png)
+![](https://github.com/cs2901-2020-1/pitch-eduk/blob/dev/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.40.42.png)
 
 8. ¿Estarías dispuesto a crear o compartir material en esta plataforma?
 9. ¿Cuáles cree que serían los más beneficiados por la plataforma?
