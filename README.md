@@ -5,6 +5,12 @@ https://bit.ly/3cklO34
 ## Infographic
 https://bit.ly/2VziGtd
 
+## Encuestas
+Profesores: https://forms.gle/QqQBtRnYo7UzU8RbA
+Alumnos: https://forms.gle/WWsyCDeVunnfrxFV7
+
+## Entrevistas
+
 ## Group Members
 
 The team is composed by:
