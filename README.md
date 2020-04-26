@@ -6,8 +6,8 @@ https://bit.ly/3cklO34
 https://bit.ly/2VziGtd
 
 ## Encuestas
-Profesores: https://forms.gle/QqQBtRnYo7UzU8RbA <br/>
-Alumnos: https://forms.gle/WWsyCDeVunnfrxFV7
+* Profesores: https://forms.gle/QqQBtRnYo7UzU8RbA
+* Alumnos: https://forms.gle/WWsyCDeVunnfrxFV7
 
 ## Entrevistas
 
