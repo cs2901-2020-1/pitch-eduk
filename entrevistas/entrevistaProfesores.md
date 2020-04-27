@@ -37,15 +37,24 @@ Para eliminar el bias al que pueden ser propicios a veces los usuarios A, los pr
 
 Y el buscador, como mencionamos, permite ingresar palabras clave, y tener acceso a todo el contenido ordenado tanto por tema cómo por relevancia, donde nuevamente se hace útil el uso de los puntajes positivos y negativos.
 
-**Mostrar mockups**
+### Mostrar mockups
+
+**Vista principal de la plataforma**
 
 ![](https://github.com/cs2901-2020-1/pitch-eduk/blob/master/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.30.36.png)
 
+**Vista de búsqueda de contenido de química**
+
 ![](https://github.com/cs2901-2020-1/pitch-eduk/blob/master/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.30.56.png)
+
+**Vista de búsqueda de contenido de química (Alternativo)**
+
+![](https://github.com/cs2901-2020-1/pitch-eduk/blob/master/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.40.42.png)
+
+**Vista de contenido que incluye video**
 
 ![](https://github.com/cs2901-2020-1/pitch-eduk/blob/master/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.36.05.png)
 
-![](https://github.com/cs2901-2020-1/pitch-eduk/blob/master/entrevistas/imagenes/Screenshot%202020-04-24%20at%2023.40.42.png)
 
 8. ¿Estarías dispuesto a crear o compartir material en esta plataforma?
 9. ¿Cuáles cree que serían los más beneficiados por la plataforma?
