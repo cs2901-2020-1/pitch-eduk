@@ -13,12 +13,12 @@
 Esta entrevista busca entender las dificultades más notables en la enseñanza de cursos de 3°, 4° y 5° grado de secundaria desde el punto de vista del profesor. También queremos notar qué herramientas ayudarían mejor a un profesor para poder tenerlas en cuenta en la implementación de la plataforma Eduk. 
 
 1. Cuéntenos un poco sobre tu experiencia como profesor en (curso que está dictando) (donde).
-2. ¿En qué inviertes más tiempo siendo profesor?
+2. ¿En qué actividades de dociencia invierte más tiempo?
 3. Y, en cuanto producir ejercicios, ¿cuánto tiempo a la semana le dedicas?
-4. ¿Qué es lo más difícil de enseñar? 
+4. ¿Cual cree que son las dificultades que enfrenta para realizar sus actividades con éxito? 
 5. ¿Cuáles son tus fuentes? Internet, libros, etc.
 6. ¿Crees que los alumnos pueden reforzarse bien con material de internet? (¿el material de internet es confiable?)
-7. ¿Qué consideras que marca la diferencia entre buen y mal contenido?
+7. ¿Qué consideras que marca la diferencia entre buen y mal contenido online?
 
 ## Sobre la solución
 
